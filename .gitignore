@@ -1,10 +1,5 @@
-*.iml
-.gradle
-/local.properties
-/.idea/*
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-libs/
-/app/src/main/res/values/client_credentials.xml
+<!Doctype html>
+<a href=http://www.google.com''>Google It</a>
+<p> Lets ADD images </p>
+<p> srcmeams source</p>
+<img src="https://lh3.googleusercontent.com/NFnVKFHLiK8HmC9ZbLDv1mpuse_ZnZKxla3G6JnZD9zhO3eASgvDbOD3uyrLgM8lbo4=h900">
